@@ -1,0 +1,25 @@
+{
+  "name": "connect-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhijithNair73/connect-wallet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhijithNair73/connect-wallet/issues"
+  },
+  "homepage": "https://github.com/AbhijithNair73/connect-wallet#readme",
+  "devDependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "solc": "^0.8.15",
+    "web3": "^1.7.4",
+    "web3.js-browser": "^0.2.0"
+  }
+}
